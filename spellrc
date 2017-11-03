@@ -1,0 +1,3 @@
+maxcorrection = 2
+dictionary = linux.words
+autocorrect = yes
